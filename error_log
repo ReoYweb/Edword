@@ -1,0 +1,175 @@
+[14-Jan-2019 06:59:18 America/Chicago] PHP Warning:  include(/partial/_header.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 06:59:18 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 06:59:18 America/Chicago] PHP Warning:  include(/partial/_footer.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 06:59:18 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 06:59:35 America/Chicago] PHP Warning:  include(/partial/_header.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 06:59:35 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 06:59:35 America/Chicago] PHP Warning:  include(/partial/_footer.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 06:59:35 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 06:59:59 America/Chicago] PHP Warning:  include(/partial/_header.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 06:59:59 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 06:59:59 America/Chicago] PHP Warning:  include(/partial/_footer.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 06:59:59 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:02:15 America/Chicago] PHP Warning:  include(/partial/_header.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:02:15 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:02:15 America/Chicago] PHP Warning:  include(/partial/_footer.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:02:15 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:02:18 America/Chicago] PHP Warning:  include(/partial/_header.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:02:18 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:02:18 America/Chicago] PHP Warning:  include(/partial/_footer.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:02:18 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:02:25 America/Chicago] PHP Warning:  include(/partial/_header.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/wedding.php on line 1
+[14-Jan-2019 07:02:25 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/wedding.php on line 1
+[14-Jan-2019 07:02:25 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 07:02:25 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 07:02:25 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/wedding.php on line 16
+[14-Jan-2019 07:02:55 America/Chicago] PHP Warning:  include(/partial/_header.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:02:55 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:02:55 America/Chicago] PHP Warning:  include(/partial/_footer.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:02:55 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:03:16 America/Chicago] PHP Warning:  include(/partial/_header.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:03:16 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:03:16 America/Chicago] PHP Warning:  include(/partial/_footer.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:03:16 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:06:57 America/Chicago] PHP Warning:  include(/partial/_header.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:06:57 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:06:57 America/Chicago] PHP Warning:  include(/partial/_footer.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:06:57 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:07:06 America/Chicago] PHP Warning:  include(/partial/_header.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:07:06 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:07:06 America/Chicago] PHP Warning:  include(/partial/_footer.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:07:06 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:12:14 America/Chicago] PHP Warning:  include(/partial/_header.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:12:14 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 1
+[14-Jan-2019 07:12:14 America/Chicago] PHP Warning:  include(/partial/_footer.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:12:14 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:12:22 America/Chicago] PHP Warning:  include(/partial/_header.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/wedding.php on line 1
+[14-Jan-2019 07:12:22 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/wedding.php on line 1
+[14-Jan-2019 07:12:22 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 07:12:22 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 07:12:22 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/wedding.php on line 16
+[14-Jan-2019 07:15:25 America/Chicago] PHP Warning:  include(/partial/_footer.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:15:25 America/Chicago] PHP Warning:  include(): Failed opening '/partial/_footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/index.php on line 75
+[14-Jan-2019 07:18:44 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 07:18:44 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 07:18:44 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 07:18:51 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 07:18:51 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 07:18:51 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 07:18:52 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 07:18:52 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 07:18:52 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 07:19:03 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 07:19:03 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 07:19:03 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 07:20:33 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 07:20:33 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 07:20:33 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/wedding.php on line 16
+[14-Jan-2019 07:20:51 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 07:20:51 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 07:20:51 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 07:23:28 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 07:23:28 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 07:23:28 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/wedding.php on line 16
+[14-Jan-2019 07:26:37 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 07:26:37 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 07:26:37 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 08:41:39 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:41:39 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:41:39 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 08:51:14 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:51:14 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:51:14 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 08:51:18 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:51:18 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:51:18 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 08:51:20 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:51:20 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:51:20 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 08:54:01 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:54:01 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:54:01 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 08:54:20 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:54:20 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:54:20 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 08:54:21 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:54:21 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:54:21 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 08:56:15 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:56:15 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:56:15 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 08:56:17 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:56:17 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:56:17 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 08:56:19 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:56:19 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/portrait.php on line 13
+[14-Jan-2019 08:56:19 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/portrait.php on line 16
+[14-Jan-2019 08:56:29 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 08:56:29 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 08:56:29 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/wedding.php on line 16
+[14-Jan-2019 08:56:40 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:56:40 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:56:40 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 08:58:06 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:58:06 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:58:06 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 08:58:08 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:58:08 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:58:08 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 08:58:08 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:58:08 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:58:08 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 08:58:08 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:58:08 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:58:08 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 08:58:11 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:58:11 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:58:11 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 08:58:18 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:58:18 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 08:58:18 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 09:04:24 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:04:24 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:04:24 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 09:06:33 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:06:33 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:06:33 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 09:07:19 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:07:19 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:07:19 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 09:07:25 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:07:25 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:07:25 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 09:07:42 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:07:42 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:07:42 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 09:07:47 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:07:47 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:07:47 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 09:07:49 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:07:49 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:07:49 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 09:08:24 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:08:24 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:08:24 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 09:08:25 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:08:25 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:08:25 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 09:08:26 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:08:26 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:08:26 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 09:08:43 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:08:43 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/family.php on line 13
+[14-Jan-2019 09:08:43 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/family.php on line 16
+[14-Jan-2019 09:09:25 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 09:09:25 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 09:09:25 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/wedding.php on line 16
+[14-Jan-2019 09:09:28 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 09:09:28 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 09:09:28 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/wedding.php on line 16
+[14-Jan-2019 09:09:28 America/Chicago] PHP Warning:  include(/functions/functions.php): failed to open stream: No such file or directory in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 09:09:28 America/Chicago] PHP Warning:  include(): Failed opening '/functions/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/reoyoshioka/public_html/edword/wedding.php on line 13
+[14-Jan-2019 09:09:28 America/Chicago] PHP Fatal error:  Call to undefined function getData() in /home/reoyoshioka/public_html/edword/wedding.php on line 16
+[14-Jan-2019 09:37:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/reoyoshioka/public_html/edword/save.php:14) in /home/reoyoshioka/public_html/edword/save.php on line 15
+[14-Jan-2019 09:38:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/reoyoshioka/public_html/edword/save.php:14) in /home/reoyoshioka/public_html/edword/save.php on line 15
+[25-Jan-2019 10:01:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/reoyoshioka/public_html/edword/save.php:14) in /home/reoyoshioka/public_html/edword/save.php on line 15
